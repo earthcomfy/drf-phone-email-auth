@@ -48,3 +48,5 @@ $ python manage.py runserver
 
 6. Open a browser and go to http://localhost:8000/admin
 
+7. Use superuser email and password to login to admin panel rather than the username and password
+
